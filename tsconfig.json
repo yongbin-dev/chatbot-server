@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "CommonJS",
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "strict": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "typeRoots": ["./@types", "./node_modules/@types"]
+  }
+  // "ts-node": {
+  //   "esm": true
+  // }
+}
